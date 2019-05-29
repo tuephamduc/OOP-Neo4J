@@ -1,0 +1,21 @@
+DinhDanh:ID(Person),Nhan,Mota,LinkTrichRut,ThoiGianTrichRut,Age,Job,Quoctich
+Trần_Thị_Hương0,Trần Thị Hương,01648340941,https://www.youtube.com/,Wed Dec 26 2018,9,Cong nhan,Nhat
+Hồ_Thị_Hương1,Hồ Thị Hương,098856743,https://www.facebook.com/,Tue Dec 25 2018,67,An trom,Anh
+Nguyễn_Sinh_Cương2,Nguyễn Sinh Cương,024677588,http://kenh14.vn/tv-show.chn,Mon Dec 24 2018,83,An trom,Duc
+Lê_Văn_Cương3,Lê Văn Cương,024677588,https://linkerpt.com/lap-trinh,Sun Dec 23 2018,17,Sinh vien,Campuchia
+"Đinh_Thế_Hùng4",Đinh Thế Hùng,01648340941,https://xuanhung937556578.wordpress.com/,Sat Dec 22 2018,54,Ky su,Nhat
+Nguyễn_Đức_Hoàng5,Nguyễn Đức Hoàng,0123566789,https://techtalk.vn/category/dev,Fri Dec 21 2018,23,Tho sua ong nuoc,Nga
+Lê_Trần_Đức_Cương6,Lê Trần Đức Cương,098856743,https://xuanhung937556578.wordpress.com/,Thu Dec 20 2018,75,Ky su,Anh
+Lê_Giang_Cương7,Lê Giang Cương,01648340941,https://techtalk.vn/category/dev,Wed Dec 19 2018,42,Cong nhan,Nga
+Lê_Sinh_Hùng8,Lê Sinh Hùng,01648340941,https://linkerpt.com/lap-trinh,Tue Dec 18 2018,4,Tho dien,Phap
+Hà_Giang_Hùng9,Hà Giang Hùng,098856743,http://kenh14.vn/tv-show.chn,Mon Dec 17 2018,89,Cong nhan,Lao
+Lê_Trần_Văn_Dương10,Lê Trần Văn Dương,098856743,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sun Dec 16 2018,82,Giao vien,Nhat
+Nguyễn_Giang_Việt11,Nguyễn Giang Việt,01648340941,https://search.maven.org/artifact/org.neo4j/neo4j-kernel/3.5.0/jar,Sat Dec 15 2018,62,Cong nhan,Campuchia
+Trần_Văn_Việt12,Trần Văn Việt,098856743,https://www.facebook.com/,Fri Dec 14 2018,56,An trom,Duc
+Nguyễn_Thế_Việt13,Nguyễn Thế Việt,01648340941,http://kenh14.vn/tv-show.chn,Thu Dec 13 2018,59,An trom,My
+Nguyễn_Thế_Hoàng14,Nguyễn Thế Hoàng,01648340941,http://kenh14.vn/tv-show.chn,Wed Dec 12 2018,2,Ky su,Nhat
+Trần_Thế_Việt15,Trần Thế Việt,024677588,https://www.youtube.com/,Tue Dec 11 2018,51,An trom,Lao
+Hồ_Giang_Mạnh16,Hồ Giang Mạnh,024677588,https://xuanhung937556578.wordpress.com/,Mon Dec 10 2018,48,Tho dien,Anh
+Hà_Thế_Việt17,Hà Thế Việt,024677588,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Sun Dec 09 2018,48,Sinh vien,My
+Nguyễn_Đức_Việt18,Nguyễn Đức Việt,098856743,http://kenh14.vn/tv-show.chn,Sat Dec 08 2018,23,Cong nhan,Nhat
+Nguyễn_Thị_Hương19,Nguyễn Thị Hương,01648340941,https://www.facebook.com/,Fri Dec 07 2018,88,An trom,Phap

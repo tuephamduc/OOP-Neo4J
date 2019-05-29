@@ -1,0 +1,17 @@
+DinhDanh:ID(Organization),Nhan,Mota,LinkTrichRut,ThoiGianTrichRut,TruSo
+VinFast0,VinFast,car,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Dec 26 2018,Hồ Thiên Nga
+Apple1,Apple,taxi,https://vietjack.com/java/su_dung_iterator_trong_java.jsp,Tue Dec 25 2018,Hồ Thiên Nga
+VinFast2,VinFast,IT,https://xuanhung937556578.wordpress.com/,Mon Dec 24 2018,Hồ Gươm
+Foody3,Foody,taxi,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sun Dec 23 2018,Hồ Gươm
+VinFast4,VinFast,Transporting,http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html,Sat Dec 22 2018,Trụ sở Apple Califonia
+BKSoftware5,BKSoftware,phone,https://www.24h.com.vn/bong-da-c48.html,Fri Dec 21 2018,Lầu năm góc
+FPT6,FPT,phone,https://www.24h.com.vn/bong-da-c48.html,Thu Dec 20 2018,Thư viện Tạ Quang Bửu
+BKSoftware7,BKSoftware,software,http://cafebiz.vn/vietjet-tro-thanh-hang-hang-khong-lon-thu-2,Wed Dec 19 2018,Time City
+Bphone8,Bphone,car,http://kenh14.vn/tv-show.chn,Tue Dec 18 2018,Cung văn hoá hữa nghị Việt Xô
+Grab9,Grab,IT,http://kenh14.vn/tv-show.chn,Mon Dec 17 2018,Cung văn hoá hữa nghị Việt Xô
+Grab10,Grab,phone,http://kenh14.vn/tv-show.chn,Sun Dec 16 2018,Hồ Thiên Nga
+Apple11,Apple,car,https://www.youtube.com/,Sat Dec 15 2018,Thư viện Tạ Quang Bửu
+Bphone12,Bphone,software,https://www.facebook.com/,Fri Dec 14 2018,Trụ sở Apple Califonia
+VinFast13,VinFast,phone,https://www.youtube.com/,Thu Dec 13 2018,Trụ sở Apple Califonia
+Bphone14,Bphone,Transporting,https://neo4j.com/docs/cypher-manual/current/syntax/temporal/,Wed Dec 12 2018,Thư viện Tạ Quang Bửu
+BKSoftware15,BKSoftware,taxi,https://violympic.vn/bong-da-c48.html,Tue Dec 11 2018,Hồ Gươm
